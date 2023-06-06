@@ -1,0 +1,33 @@
+
+  
+  .wrapper {
+    margin-top: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  .news-list {
+    display: grid;
+    grid-gap: 20px;
+  }
+  
+  .news-item {
+    background-color: #f4f4f4;
+    padding: 10px;
+  }
+  
+  .news-item h3 {
+    margin: 0;
+  }
+  
+  .news-item p {
+    margin-bottom: 10px;
+  }
+  
+  .news-item a {
+    color: blue;
+    text-decoration: underline;
+  }
+  
